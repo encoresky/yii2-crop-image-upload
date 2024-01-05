@@ -6,7 +6,7 @@
  * @license http://www.opensource.org/licenses/bsd-license.php New BSD License
  */
 
-namespace karpoff\icrop;
+namespace encoresky\icrop;
 
 use yii\web\AssetBundle;
 
