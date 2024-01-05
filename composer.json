@@ -14,7 +14,7 @@
   ],
   "autoload": {
 	"psr-4": {
-	  "karpoff\\icrop\\": ""
+	  "encoresky\\icrop\\": ""
 	}
   },
   "require": {
