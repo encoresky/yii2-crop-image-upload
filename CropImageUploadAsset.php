@@ -12,7 +12,7 @@ use yii\web\AssetBundle;
 
 class CropImageUploadAsset extends AssetBundle
 {
-	public $sourcePath = '@vendor/karpoff/yii2-crop-image-upload/assets';
+	public $sourcePath = '@vendor/encoresky/yii2-crop-image-upload/assets';
 
 	public $depends = [
 		'yii\web\YiiAsset',
