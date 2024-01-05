@@ -4,7 +4,7 @@
  * @link https://github.com/karpoff/yii2-crop-image-upload
  * @license http://www.opensource.org/licenses/bsd-license.php New BSD License
  */
-namespace karpoff\icrop;
+namespace encoresky\icrop;
 
 use yii\base\InvalidConfigException;
 use yii\helpers\Html;
