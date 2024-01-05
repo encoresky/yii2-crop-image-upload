@@ -1,7 +1,7 @@
 {
-  "name": "karpoff/yii2-crop-image-upload",
+  "name": "encoresky/yii2-crop-image-upload",
   "description": "Yii 2 Crop image upload widget",
-  "homepage": "https://github.com/karpoff/yii2-crop-image-upload",
+  "homepage": "https://github.com/encoresky/yii2-crop-image-upload",
   "license": "BSD-3-Clause",
   "type": "yii2-extension",
   "version": "0.2.1",
@@ -9,7 +9,7 @@
   "authors": [
 	{
 	  "name": "Anton Karpov",
-	  "email": "karpoff@bk.ru"
+	  "email": "mahesh@est.com"
 	}
   ],
   "autoload": {
